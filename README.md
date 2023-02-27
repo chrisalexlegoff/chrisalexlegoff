@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://christophe-le-goff.com](https://christophe-le-goff.com)
+- 👨‍💻 All of my projects are available at [https://christophe-le-goff.fr](https://christophe-le-goff.fr)
 
 - 💬 Ask me about **Strapi, NextJs**
 
