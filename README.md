@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chrisalexlegoff" target="blank"><img src="https://img.shields.io/twitter/follow/chrisalexlegoff?logo=twitter&style=for-the-badge" alt="chrisalexlegoff" /></a> </p>
 
-- 🔭 I’m currently working on [LilouSnow](https://lilousnow.fr)
+- 🔭 I’m currently working on [LilouSnow](https://lilousnow.fr) && [My site](https://christophe-le-goff.fr)
 
 - 🌱 I’m currently learning **Typescript**
 
